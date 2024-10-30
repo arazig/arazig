@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 😄 I’m currently working on Academic Data Science projects
-- 🌱 I’m currently learning Statistiques and ML at @ENSAE PARIS
+- 😄 I’m currently working on academic and professional  Data Science projects
+- 🌱 I’m currently learning Statistiques and ML at @EcolePolytechnqiue and @ENSAE PARIS
 
 Here is an overline of some of the reports made on the occasion of different projects made available on my GitHub :✨
 
