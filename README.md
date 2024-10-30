@@ -16,3 +16,8 @@ Here is an overline of some of the reports made on the occasion of different pro
 
 ## Prediction of Co2 emissions from vehicles marketed in France in 2014:
 <img src="demo_rapport.png" alt="Demo R" width="230" />
+
+
+## And some more or less complex python tools for various tasks ...
+
+<img src="demo_ects.png" alt="Demo R" width="230" />
