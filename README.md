@@ -7,7 +7,21 @@
 - 😄 I’m currently working on academic and professional  Data Science projects
 - 🌱 I’m currently learning Statistiques and ML at M2DS @[EcolePolytechnique](https://synapses.polytechnique.fr/catalogue/2023-2024/diplome/26/M2DS-m2-data-sciences) and 3A @[ENSAE PARIS](https://www.ensae.fr/formation/cycle-ingenieur/troisieme-annee/data-science-statistique-et-apprentissage). (For course details, follow the links)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-razig-5884961bb/)
+
+
 #### Some projects
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 Here is an overline of some of the reports made on the occasion of different projects made available on my GitHub :✨
 
 ----------------------
@@ -35,3 +49,5 @@ Here is an overline of some of the reports made on the occasion of different pro
 ## And some python tools for various tasks ...
 
 <img src="demo_ects.png" alt="Demo R" width="230" />
+
+
