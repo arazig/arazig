@@ -6,7 +6,12 @@
 
 - 😄 I’m currently working on academic and professional  Data Science projects
 - 🌱 I’m currently learning Statistics and ML at M2DS @[EcolePolytechnique](https://synapses.polytechnique.fr/catalogue/2023-2024/diplome/26/M2DS-m2-data-sciences) and 3A @[ENSAE PARIS](https://www.ensae.fr/formation/cycle-ingenieur/troisieme-annee/data-science-statistique-et-apprentissage). (For course details, follow the links)
+  
+#### 🔗 More About Me
 
+> 👉 **Explore more of my work and background on my portfolio and social media:**  
+> [arazig.github.io/AmineRazig](https://arazig.github.io/AmineRazig/)
+> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-razig-5884961bb/)
 
 
